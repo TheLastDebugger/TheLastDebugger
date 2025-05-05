@@ -1,7 +1,7 @@
 👋 Hi, I’m @TheLastDebugger (Srinivas)
 
-- 👀 I’m interested in **Web Development, MERN Stack, and game development** 🎮
-- 🌱 I’m currently learning **Laravel, React, and Flutter** to build full-stack applications
+- 👀 I’m interested in **Web Development, App Development and game development** 🎮
+- 🌱 I’m currently learning **Laravel, MERN Stack, and Flutter** to build full-stack applications
 - 💞️ I’m looking to collaborate on **real-time apps, gaming apps, and innovative projects** that combine tech and creativity
 - 📫 How to reach me: You can connect with me on **[LinkedIn](www.linkedin.com/in/srinivas-saravanan-808779290)**
 - 😄 Pronouns: He/Him
